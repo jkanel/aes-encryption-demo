@@ -4,3 +4,8 @@ C:\Users\jeff.kanel\Documents\Visual Studio 2015\Projects\AesEncryptionDemo\AesE
 C:\Users\jeff.kanel\Documents\Visual Studio 2015\Projects\AesEncryptionDemo\AesEncryptionDemo\bin\Debug\AesEncryptionDemo.pdb
 C:\Users\jeff.kanel\Documents\Visual Studio 2015\Projects\AesEncryptionDemo\AesEncryptionDemo\obj\Debug\AesEncryptionDemo.exe
 C:\Users\jeff.kanel\Documents\Visual Studio 2015\Projects\AesEncryptionDemo\AesEncryptionDemo\obj\Debug\AesEncryptionDemo.pdb
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Debug\AesEncryptionDemo.exe.config
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\obj\Debug\AesEncryptionDemo.exe
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\obj\Debug\AesEncryptionDemo.pdb
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Debug\AesEncryptionDemo.exe
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Debug\AesEncryptionDemo.pdb

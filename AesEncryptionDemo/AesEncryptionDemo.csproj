@@ -62,8 +62,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Support\AppSettingPasswordProvider.cs" />
     <Compile Include="Encryption\AesEncryptionProvider.cs" />
-    <Compile Include="DemoObject.cs" />
+    <Compile Include="Support\DemoObject.cs" />
+    <Compile Include="Encryption\IPasswordProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

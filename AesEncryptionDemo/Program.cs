@@ -11,17 +11,6 @@ using System.Web.Script.Serialization;
 
 namespace AesEncryptionDemo
 {
-    
-    class AppSettingPasswordProvider : IPasswordProvider
-    {
-        public static string AppSettingName = "EncryptionPassword";
-
-        public string GetPassword()
-        {
-            return ConfigurationManager.AppSettings.Get(AppSettingPasswordProvider.AppSettingName);
-
-        }
-    }
 
     class Program
     {
@@ -39,10 +28,10 @@ namespace AesEncryptionDemo
             Console.WriteLine("Static CipherMode: {0}", Aes256EncryptionProvider.CipherMode.ToString());
             Console.WriteLine();
 
-             //Demo1();
-            //Demo2();
-            //Demo3();
-             Demo4();
+            Demo1();
+            // Demo2();
+            // Demo3();
+            // Demo4();
             
             Console.WriteLine("Press enter key to continue.");
             string x = Console.ReadLine();

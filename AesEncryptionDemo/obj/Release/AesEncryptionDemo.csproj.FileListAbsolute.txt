@@ -1,0 +1,5 @@
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Release\AesEncryptionDemo.exe.config
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Release\AesEncryptionDemo.exe
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\bin\Release\AesEncryptionDemo.pdb
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\obj\Release\AesEncryptionDemo.exe
+C:\Development\Solutions\GitHub\aes-encryption-demo\AesEncryptionDemo\obj\Release\AesEncryptionDemo.pdb

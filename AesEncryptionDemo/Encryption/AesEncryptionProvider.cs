@@ -8,19 +8,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Security.Cryptography;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Runtime.Serialization;
 
 namespace AesEncryptionDemo
 {
-
-    /// <summary>
-    /// Interface used to provide passwords to the AesEncryptionProvider.
-    /// </summary>
-    public interface IPasswordProvider
-    {
-        string GetPassword();
-    }
-
     /// <summary>
     /// Performs best practice AES 256-bit encryption with advanced salt and IV generation.
     /// </summary>
